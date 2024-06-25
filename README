@@ -1,0 +1,9 @@
+En el siguiente trabajo debo crear un entorno donde tenga: 
+-Templates (uno base y luego modifico c/u segun lo necesario)
+-3 rutas (el index, el de productos y el de añadir productos)
+-Usar el metodo GET y el POST (para ver los productos y añadir con el POST)
+
+ACLARACIONES:
+-utilizo una lista base de 3 productos
+-las propiedades que va a tener c/producto son categoria, nombre, precio, descripcion (breve) y stock
+
